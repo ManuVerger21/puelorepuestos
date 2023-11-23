@@ -1,0 +1,9 @@
+.ListGroup {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+    padding: 30px; /* Ajusta el relleno para agregar espacio alrededor de las tarjetas */
+  }
+  
