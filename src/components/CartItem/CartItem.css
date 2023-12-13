@@ -1,0 +1,40 @@
+
+
+.CartItem {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    overflow: hidden;
+    transition: transform 0.3s ease;
+    height: 100%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Agrega una sombra suave */
+    margin-bottom: 10px; 
+  }
+  
+  .CartItem:hover {
+    transform: scale(1.05);
+  }
+  
+  .Header {
+    padding: 10px;
+    background-color: #3498db;
+    color: #fff;
+  }
+  
+  .Info {
+    margin: 10px 0;
+  }
+  
+  .ItemFooter {
+    margin-top: auto;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .FooterContent {
+    display: flex;
+    justify-content: center;
+  }
+  
+  

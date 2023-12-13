@@ -1,0 +1,40 @@
+.Cart {
+    margin: 20px; /* Adjust margin as needed */
+  }
+  
+  .Total {
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  
+  .Button {
+    padding: 10px 20px;
+    font-size: 14px;
+    cursor: pointer;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+    margin-right: 10px; /* Adjust margin as needed */
+  }
+  
+  .Button:hover {
+    background-color: #2980b9;
+  }
+  
+  .Option {
+    padding: 10px 20px;
+    font-size: 14px;
+    cursor: pointer;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+    margin-right: 10px; /* Adjust margin as needed */
+  }
+  
+  .Option:hover {
+    background-color: #2980b9;
+  }
